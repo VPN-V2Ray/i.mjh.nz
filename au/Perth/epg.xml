@@ -41097,31 +41097,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220908151800 +0000" stop="20220908162535 +0000">
-    <title>Red Bull Signature Series S2020E7</title>
-    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
-    <sub-title>Kenda Tennessee Knockout</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908162535 +0000" stop="20220908170444 +0000">
-    <title>RISS</title>
-    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
-    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908170444 +0000" stop="20220908171453 +0000">
-    <title>Field Day S2E1</title>
-    <desc>Link up with Lucas Rabelo in Long Beach to learn how he started skating, training to pop higher and more.</desc>
-    <sub-title>Lucas Rabelo</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908171453 +0000" stop="20220908173958 +0000">
-    <title>Red Bull Flugtag S2E4</title>
-    <desc>Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines.</desc>
-    <sub-title>Louisville, USA</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908173958 +0000" stop="20220908180526 +0000">
-    <title>EMIL – Every Mystery I’ve Lived</title>
-    <desc>Emil Johansson spent 2018 struggling with an autoimmune disease, but now he’s ready to make his comeback.</desc>
-    <sub-title>Emil Johansson's comeback</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220908180526 +0000" stop="20220908182211 +0000">
     <title>EMIL – Every Mystery I've Lived: The Next Chapter</title>
     <desc>We tap into the mindset of MTB slopestyle champion Emil Johansson as he attempts to regain his title in 2020.</desc>
@@ -41331,6 +41306,46 @@
     <title>Making the Soloist VR S1E1</title>
     <desc>Alex Honnold, Nico Hojac and team take on an iconic face in the Italian Dolomites while filming a VR film.</desc>
     <sub-title>The VR experiment</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909163014 +0000" stop="20220909165345 +0000">
+    <title>Making the Soloist VR S1E2</title>
+    <desc>Alex Honnold, Nico Hojac and team take on an epic climb and film shoot on Les Drus in the Mont Blanc massif.</desc>
+    <sub-title>Filming free solo on Les Drus in France</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909165345 +0000" stop="20220909171828 +0000">
+    <title>Making the Soloist VR S1E3</title>
+    <desc>Things turn decidely alpine as Nico Hojac and the team battle through the worst summer weather in decades.</desc>
+    <sub-title>The eternal optimist</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909171828 +0000" stop="20220909173951 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909173951 +0000" stop="20220909180551 +0000">
+    <title>Evolution of Cliff Diving</title>
+    <desc>Red Bull Cliff Diving World Series is pushing the progression of the world's oldest extreme sport. Here's how.</desc>
+    <sub-title>Pushing progression in water sports</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909180551 +0000" stop="20220909185013 +0000">
+    <title>Red Bull Soapbox Race S7E1</title>
+    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
+    <sub-title>São Paulo, Brazil</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909185013 +0000" stop="20220909190820 +0000">
+    <title>Flight Plan: Lawrence Brothers S2E1</title>
+    <desc>Haters can say what they want about the Lawrence brothers but watch as Jett and Hunter prove them wrong.</desc>
+    <sub-title>Are the Lawrence brothers overhyped?</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909190820 +0000" stop="20220909191855 +0000">
+    <title>Esports Unfold S4E2</title>
+    <desc>Possessing a ruthless will to win, get to know Carlos ‘ocelote’ Rodríguez, founder and CEO of G2 Esports.</desc>
+    <sub-title>Carlos ‘ocelote’ Rodríguez</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909191855 +0000" stop="20220909194729 +0000">
+    <title>Skate Tales S2E1</title>
+    <desc>Madars Apse is in Massachusetts to meet the group of friends redefining what's possible in skateboarding.</desc>
+    <sub-title>Madars and the Fancy Lad crew</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
