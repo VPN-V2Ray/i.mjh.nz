@@ -872,17 +872,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
-    <title>Australian Story</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
     <title>Back Roads</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
+    <title>Australian Story</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911050000 +0000" stop="20220911053000 +0000">
@@ -17675,14 +17675,14 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Air Crash Investigation: Special Report</title>
+    <title>Gold Coast Medical</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Gold Coast Medical</title>
-    <subtitles type="teletext"/>
+    <title>Air Crash Investigation: Special Report</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41097,56 +41097,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220908100536 +0000" stop="20220908113319 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>Rebecca Rusch's search for connection</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908113319 +0000" stop="20220908115830 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908115830 +0000" stop="20220908122014 +0000">
-    <title>Life of Kai S2E1</title>
-    <desc>Kai heads to an historic Nazaré swell, but has his biggest wipeout ever and must fight for his life.</desc>
-    <sub-title>The beast awakens</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908122014 +0000" stop="20220908123758 +0000">
-    <title>Life of Kai S2E2</title>
-    <desc>Jaws lights up and Kai looks to redeem himself after a tough loss in the Big Wave event there the year before.</desc>
-    <sub-title>Redemption at Peahi</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908123758 +0000" stop="20220908125459 +0000">
-    <title>Life of Kai S2E3</title>
-    <desc>Kai, Ridge and Ian Walsh fly to Mavericks in California for what's being hailed as the swell of the decade.</desc>
-    <sub-title>Day of Days</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908125459 +0000" stop="20220908131828 +0000">
-    <title>Life of Kai S2E4</title>
-    <desc>To hone his aerial skills, Kai hits the waves of Bali, the slopes of Jackson Hole and a wave pool in Texas.</desc>
-    <sub-title>Air time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908131828 +0000" stop="20220908134050 +0000">
-    <title>Life of Kai S2E5</title>
-    <desc>It’s Super Swell Saturday at Jaws and tests stand in the way of Kai’s goal of his year’s best performance.</desc>
-    <sub-title>The test</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908134050 +0000" stop="20220908135957 +0000">
-    <title>Reel Rock S7E7</title>
-    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <sub-title>First ascent/last ascent part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908135957 +0000" stop="20220908141914 +0000">
-    <title>Reel Rock S7E8</title>
-    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <sub-title>First ascent/last ascent part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908141914 +0000" stop="20220908151800 +0000">
-    <title>Reverence</title>
-    <desc>This film delves into the psyche of elite mountain bike athletes in a bid to understand their motivation.</desc>
-    <sub-title>A journey into fear</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220908151800 +0000" stop="20220908162535 +0000">
     <title>Red Bull Signature Series S2020E7</title>
     <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
@@ -41341,6 +41291,46 @@
     <title>Reel Rock S7E8</title>
     <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
     <sub-title>First ascent/last ascent part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909112414 +0000" stop="20220909122221 +0000">
+    <title>Reverence</title>
+    <desc>This film delves into the psyche of elite mountain bike athletes in a bid to understand their motivation.</desc>
+    <sub-title>A journey into fear</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909122221 +0000" stop="20220909133036 +0000">
+    <title>Red Bull Signature Series S2020E7</title>
+    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
+    <sub-title>Kenda Tennessee Knockout</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909133036 +0000" stop="20220909140945 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909140945 +0000" stop="20220909143530 +0000">
+    <title>Red Bull Flugtag S2E4</title>
+    <desc>Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines.</desc>
+    <sub-title>Louisville, USA</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909143530 +0000" stop="20220909150018 +0000">
+    <title>EMIL – Every Mystery I’ve Lived</title>
+    <desc>Emil Johansson spent 2018 struggling with an autoimmune disease, but now he’s ready to make his comeback.</desc>
+    <sub-title>Emil Johansson's comeback</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909150018 +0000" stop="20220909151702 +0000">
+    <title>EMIL – Every Mystery I've Lived: The Next Chapter</title>
+    <desc>We tap into the mindset of MTB slopestyle champion Emil Johansson as he attempts to regain his title in 2020.</desc>
+    <sub-title>Working to regain the MTB title</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909151702 +0000" stop="20220909161203 +0000">
+    <title>The Tactician: A Cody Webb Story</title>
+    <desc>At the top of the American Hard Enduro food chain, there’s one man that everyone looks up to: Cody Webb.</desc>
+    <sub-title>America's greatest Hard Enduro athlete</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909161203 +0000" stop="20220909163014 +0000">
+    <title>Making the Soloist VR S1E1</title>
+    <desc>Alex Honnold, Nico Hojac and team take on an iconic face in the Italian Dolomites while filming a VR film.</desc>
+    <sub-title>The VR experiment</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
