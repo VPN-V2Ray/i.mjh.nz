@@ -872,17 +872,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
-    <title>Back Roads</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
     <title>Australian Story</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
+    <title>Back Roads</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911050000 +0000" stop="20220911053000 +0000">
@@ -9502,12 +9502,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600464" start="20220908153000 +0000" stop="20220908160200 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600464" start="20220908160200 +0000" stop="20220908170000 +0000">
     <title>The Real Housewives of Orange County</title>
     <rating system="Freeview">
@@ -11014,12 +11008,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20220908153100 +0000" stop="20220908162900 +0000">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20220908162900 +0000" stop="20220908170200 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
@@ -12142,13 +12130,6 @@
     <title>Davis Cup France v Australia</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20220908141400 +0000" stop="20220908161600 +0000">
-    <title>The Last Witch Hunter</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20220908161600 +0000" stop="20220908171000 +0000">
@@ -16327,16 +16308,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20220910040000 +0000" stop="20220910042800 +0000">
-    <title>Home in WA</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060560" start="20220910040000 +0000" stop="20220910042900 +0000">
     <title>Dog Patrol</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060560" start="20220910040000 +0000" stop="20220910042800 +0000">
+    <title>Home in WA</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20220910042800 +0000" stop="20220910053000 +0000">
@@ -17675,14 +17656,14 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Gold Coast Medical</title>
-    <subtitles type="teletext"/>
+    <title>Air Crash Investigation: Special Report</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Air Crash Investigation: Special Report</title>
+    <title>Gold Coast Medical</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18884,17 +18865,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305060563" start="20220910060000 +0000" stop="20220910070100 +0000">
+    <title>Offshore Powerboat Championships</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305060563" start="20220910060000 +0000" stop="20220910075900 +0000">
     <title>AFLW: Rnd 3: Geelong v Collingwood</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060563" start="20220910060000 +0000" stop="20220910070100 +0000">
-    <title>Offshore Powerboat Championships</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20220910070100 +0000" stop="20220910080000 +0000">
@@ -19782,12 +19763,6 @@
     <title>Truck Night In America</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060565" start="20220908144300 +0000" stop="20220908163400 +0000">
-    <title>She's Funny That Way</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305060565" start="20220908163400 +0000" stop="20220908172900 +0000">
@@ -21043,13 +21018,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070681" start="20220908153300 +0000" stop="20220908163300 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20220908163300 +0000" stop="20220908173700 +0000">
@@ -25863,13 +25831,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070686" start="20220908153000 +0000" stop="20220908163000 +0000">
-    <title>Oil of Morocco Argan Haircare</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070686" start="20220908163000 +0000" stop="20220908173000 +0000">
     <title>Kellys Kloset Kaftans</title>
     <subtitles type="teletext"/>
@@ -26928,12 +26889,6 @@
     <title>Gems Of The Orient</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070687" start="20220908153000 +0000" stop="20220908163400 +0000">
-    <title>48 Hours</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070687" start="20220908163400 +0000" stop="20220908170500 +0000">
@@ -28274,12 +28229,6 @@
     <title>48 Hours</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070688" start="20220908153200 +0000" stop="20220908160300 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20220908160300 +0000" stop="20220908163300 +0000">
@@ -30238,9 +30187,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070689" start="20220908140000 +0000" stop="20220908200000 +0000">
-    <title>New Channel Launching Soon</title>
-  </programme>
   <programme channel="tv.101406070689" start="20220908200000 +0000" stop="20220909020000 +0000">
     <title>New Channel Launching Soon</title>
   </programme>
@@ -30324,13 +30270,6 @@
   </programme>
   <programme channel="tv.101406070689" start="20220915140000 +0000" stop="20220915200000 +0000">
     <title>New Channel Launching Soon</title>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20220908153900 +0000" stop="20220908164200 +0000">
-    <title>Parliament Question Time</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20220908164200 +0000" stop="20220908172900 +0000">
     <title>Doc Martin</title>
@@ -40567,12 +40506,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203200327" start="20220908155000 +0000" stop="20220908181000 +0000">
-    <title>Call Me by Your Name</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203200327" start="20220908181000 +0000" stop="20220908202000 +0000">
     <title>A Little Chaos</title>
     <rating system="Freeview">
@@ -41097,31 +41030,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220908191631 +0000" stop="20220908193442 +0000">
-    <title>Making the Soloist VR S1E1</title>
-    <desc>Alex Honnold, Nico Hojac and team take on an iconic face in the Italian Dolomites while filming a VR film.</desc>
-    <sub-title>The VR experiment</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908193442 +0000" stop="20220908195853 +0000">
-    <title>Making the Soloist VR S1E2</title>
-    <desc>Alex Honnold, Nico Hojac and team take on an epic climb and film shoot on Les Drus in the Mont Blanc massif.</desc>
-    <sub-title>Filming free solo on Les Drus in France</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908195853 +0000" stop="20220908202226 +0000">
-    <title>Making the Soloist VR S1E3</title>
-    <desc>Things turn decidely alpine as Nico Hojac and the team battle through the worst summer weather in decades.</desc>
-    <sub-title>The eternal optimist</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908202226 +0000" stop="20220908204349 +0000">
-    <title>That’s Caroline</title>
-    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
-    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220908204349 +0000" stop="20220908210949 +0000">
-    <title>Evolution of Cliff Diving</title>
-    <desc>Red Bull Cliff Diving World Series is pushing the progression of the world's oldest extreme sport. Here's how.</desc>
-    <sub-title>Pushing progression in water sports</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220908210949 +0000" stop="20220908215331 +0000">
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -41346,6 +41254,16 @@
     <title>Long Live Chainsaw</title>
     <desc>Celebrating the life and legacy of Canadian mountain bike legend Stevie Smith. </desc>
     <sub-title>Celebrating the life and legacy of Stevie Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909214409 +0000" stop="20220909220351 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220909220351 +0000" stop="20220909234752 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
