@@ -41098,6 +41098,21 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220908195853 +0000" stop="20220908202226 +0000">
+    <title>Making the Soloist VR S1E3</title>
+    <desc>Things turn decidely alpine as Nico Hojac and the team battle through the worst summer weather in decades.</desc>
+    <sub-title>The eternal optimist</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908202226 +0000" stop="20220908204349 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908204349 +0000" stop="20220908210949 +0000">
+    <title>Evolution of Cliff Diving</title>
+    <desc>Red Bull Cliff Diving World Series is pushing the progression of the world's oldest extreme sport. Here's how.</desc>
+    <sub-title>Pushing progression in water sports</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220908210949 +0000" stop="20220908215331 +0000">
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -41322,16 +41337,6 @@
     <title>Long Live Chainsaw</title>
     <desc>Celebrating the life and legacy of Canadian mountain bike legend Stevie Smith. </desc>
     <sub-title>Celebrating the life and legacy of Stevie Smith</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909214409 +0000" stop="20220909220351 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909220351 +0000" stop="20220909234752 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
