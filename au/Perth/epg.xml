@@ -872,17 +872,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
-    <title>Back Roads</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
     <title>Australian Story</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
+    <title>Back Roads</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911050000 +0000" stop="20220911053000 +0000">
@@ -17675,14 +17675,14 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Gold Coast Medical</title>
-    <subtitles type="teletext"/>
+    <title>Air Crash Investigation: Special Report</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20220911100000 +0000" stop="20220911110000 +0000">
-    <title>Air Crash Investigation: Special Report</title>
+    <title>Gold Coast Medical</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41097,6 +41097,21 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220908100536 +0000" stop="20220908113319 +0000">
+    <title>Blood Road</title>
+    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
+    <sub-title>Rebecca Rusch's search for connection</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908113319 +0000" stop="20220908115830 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908115830 +0000" stop="20220908122014 +0000">
+    <title>Life of Kai S2E1</title>
+    <desc>Kai heads to an historic Nazaré swell, but has his biggest wipeout ever and must fight for his life.</desc>
+    <sub-title>The beast awakens</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220908122014 +0000" stop="20220908123758 +0000">
     <title>Life of Kai S2E2</title>
     <desc>Jaws lights up and Kai looks to redeem himself after a tough loss in the Big Wave event there the year before.</desc>
@@ -41326,16 +41341,6 @@
     <title>Reel Rock S7E8</title>
     <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
     <sub-title>First ascent/last ascent part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909112414 +0000" stop="20220909122221 +0000">
-    <title>Reverence</title>
-    <desc>This film delves into the psyche of elite mountain bike athletes in a bid to understand their motivation.</desc>
-    <sub-title>A journey into fear</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909122221 +0000" stop="20220909133036 +0000">
-    <title>Red Bull Signature Series S2020E7</title>
-    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
-    <sub-title>Kenda Tennessee Knockout</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
