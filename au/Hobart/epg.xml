@@ -432,15 +432,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220909170000 +0000" stop="20220909175800 +0000">
-    <title>The World</title>
+  <programme channel="tv.101002210220" start="20220909170000 +0000" stop="20220909200000 +0000">
+    <title>Queen Elizabeth II - Overnight Coverage</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20220909170000 +0000" stop="20220909200000 +0000">
-    <title>Queen Elizabeth II - Overnight Coverage</title>
+  <programme channel="tv.101002210220" start="20220909170000 +0000" stop="20220909175800 +0000">
+    <title>The World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -453,14 +453,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Close Of Business</title>
+    <title>Friday Briefing</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Friday Briefing</title>
-    <subtitles type="teletext"/>
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -709,17 +709,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
-    <title>Australian Story</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
     <title>Back Roads</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20220911043000 +0000" stop="20220911050000 +0000">
+    <title>Australian Story</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911050000 +0000" stop="20220911053000 +0000">
@@ -750,14 +750,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911073000 +0000" stop="20220911080000 +0000">
-    <title>ABC News Regional</title>
+    <title>The World This Week</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911073000 +0000" stop="20220911080000 +0000">
-    <title>The World This Week</title>
+    <title>ABC News Regional</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -8143,15 +8143,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20220908230000 +0000" stop="20220909000000 +0000">
-    <title>ABC News Mornings</title>
+  <programme channel="tv.101002710271" start="20220908230000 +0000" stop="20220909030000 +0000">
+    <title>Queen Elizabeth II (1926-2022)</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002710271" start="20220908230000 +0000" stop="20220909030000 +0000">
-    <title>Queen Elizabeth II (1926-2022)</title>
+  <programme channel="tv.101002710271" start="20220908230000 +0000" stop="20220909000000 +0000">
+    <title>ABC News Mornings</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -12107,18 +12107,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20220909093000 +0000" stop="20220909100000 +0000">
-    <title>A Current Affair</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300436" start="20220909093000 +0000" stop="20220909100300 +0000">
     <title>Country House Hunters</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20220909093000 +0000" stop="20220909100000 +0000">
+    <title>A Current Affair</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20220909100000 +0000" stop="20220909123000 +0000">
@@ -25826,18 +25826,18 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20220910120000 +0000" stop="20220910141500 +0000">
-    <title>The Queen: A Royal Life</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406030635" start="20220910120000 +0000" stop="20220910130000 +0000">
     <title>The Cheap Seats</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030635" start="20220910120000 +0000" stop="20220910141500 +0000">
+    <title>The Queen: A Royal Life</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20220910130000 +0000" stop="20220910140000 +0000">
@@ -33286,12 +33286,18 @@
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
+    <title>Fubar Age of Computer</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
     <title>The Last Lesbian Bars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
+  <programme channel="tv.320203000303" start="20220910022500 +0000" stop="20220910025000 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
       <value>M</value>
@@ -33301,12 +33307,6 @@
     <title>Life After Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000303" start="20220910022500 +0000" stop="20220910025000 +0000">
-    <title>Fubar Age of Computer</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20220910025000 +0000" stop="20220910034500 +0000">

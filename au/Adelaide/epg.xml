@@ -17268,17 +17268,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20220909133000 +0000" stop="20220909150400 +0000">
-    <title>Farmer Wants a Wife</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050550" start="20220909133000 +0000" stop="20220909193000 +0000">
     <title>7NEWS: The Death of Queen Elizabeth II</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20220909133000 +0000" stop="20220909150400 +0000">
+    <title>Farmer Wants a Wife</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20220909150400 +0000" stop="20220909160300 +0000">
@@ -17498,15 +17498,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20220911105700 +0000" stop="20220911120100 +0000">
-    <title>7NEWS Spotlight</title>
+  <programme channel="tv.101305050550" start="20220911105700 +0000" stop="20220911130000 +0000">
+    <title>Spotlight: Who Really Killed Michael Jackson?</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20220911105700 +0000" stop="20220911130000 +0000">
-    <title>Spotlight: Who Really Killed Michael Jackson?</title>
+  <programme channel="tv.101305050550" start="20220911105700 +0000" stop="20220911120100 +0000">
+    <title>7NEWS Spotlight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -19960,18 +19960,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20220910090000 +0000" stop="20220910092300 +0000">
-    <title>AFL Collingwood v Fremantle</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050553" start="20220910090000 +0000" stop="20220910093000 +0000">
     <title>Pawn Stars</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20220910090000 +0000" stop="20220910092300 +0000">
+    <title>AFL Collingwood v Fremantle</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20220910092300 +0000" stop="20220910095500 +0000">
@@ -25555,18 +25555,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20220909062900 +0000" stop="20220909090000 +0000">
-    <title>10 News First</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050655" start="20220909062900 +0000" stop="20220909070000 +0000">
     <title>Everyday Gourmet with Justine Schofield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050655" start="20220909062900 +0000" stop="20220909090000 +0000">
+    <title>10 News First</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20220909070000 +0000" stop="20220909073000 +0000">

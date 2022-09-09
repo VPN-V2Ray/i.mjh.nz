@@ -24554,24 +24554,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20220910120000 +0000" stop="20220910130000 +0000">
+    <title>Ambulance</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20220910120000 +0000" stop="20220910130000 +0000">
     <title>Her Majesty The Queen: A Gayle King Special</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070685" start="20220910120000 +0000" stop="20220910130000 +0000">
-    <title>Ambulance</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070685" start="20220910130000 +0000" stop="20220910140000 +0000">
-    <title>Ambulance</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20220910130000 +0000" stop="20220910140000 +0000">
@@ -24579,6 +24572,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20220910130000 +0000" stop="20220910140000 +0000">
+    <title>Ambulance</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20220910140000 +0000" stop="20220910161500 +0000">
