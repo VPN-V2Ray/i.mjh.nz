@@ -453,14 +453,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Friday Briefing</title>
-    <subtitles type="teletext"/>
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Close Of Business</title>
+    <title>Friday Briefing</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -750,14 +750,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911073000 +0000" stop="20220911080000 +0000">
-    <title>The World This Week</title>
+    <title>ABC News Regional</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220911073000 +0000" stop="20220911080000 +0000">
-    <title>ABC News Regional</title>
+    <title>The World This Week</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -25784,24 +25784,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20220910090000 +0000" stop="20220910100000 +0000">
-    <title>The Queen: In Her Own Words</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20220910090000 +0000" stop="20220910100000 +0000">
     <title>The Dog House</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20220910100000 +0000" stop="20220910110000 +0000">
-    <title>Ambulance</title>
+  <programme channel="tv.101406020625" start="20220910090000 +0000" stop="20220910100000 +0000">
+    <title>The Queen: In Her Own Words</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20220910100000 +0000" stop="20220910110000 +0000">
@@ -25811,11 +25804,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20220910110000 +0000" stop="20220910120000 +0000">
-    <title>Elizabeth &amp; Philip: Royals Revealed</title>
+  <programme channel="tv.101406020625" start="20220910100000 +0000" stop="20220910110000 +0000">
+    <title>Ambulance</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20220910110000 +0000" stop="20220910120000 +0000">
@@ -25825,11 +25818,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20220910120000 +0000" stop="20220910130000 +0000">
-    <title>The Cheap Seats</title>
+  <programme channel="tv.101406020625" start="20220910110000 +0000" stop="20220910120000 +0000">
+    <title>Elizabeth &amp; Philip: Royals Revealed</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20220910120000 +0000" stop="20220910141500 +0000">
@@ -25837,6 +25830,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20220910120000 +0000" stop="20220910130000 +0000">
+    <title>The Cheap Seats</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20220910130000 +0000" stop="20220910140000 +0000">
@@ -33285,12 +33285,18 @@
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
+    <title>Fubar Age of Computer</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
     <title>The Last Lesbian Bars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20220910020000 +0000" stop="20220910022500 +0000">
+  <programme channel="tv.320203000303" start="20220910022500 +0000" stop="20220910025000 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
       <value>M</value>
@@ -33300,12 +33306,6 @@
     <title>Life After Food</title>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000303" start="20220910022500 +0000" stop="20220910025000 +0000">
-    <title>Fubar Age of Computer</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20220910025000 +0000" stop="20220910034500 +0000">
@@ -40240,36 +40240,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220909070957 +0000" stop="20220909083820 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>Rebecca Rusch's search for connection</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909083820 +0000" stop="20220909090330 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909090330 +0000" stop="20220909092405 +0000">
-    <title>Life of Kai S2E1</title>
-    <desc>Kai heads to an historic Nazaré swell, but has his biggest wipeout ever and must fight for his life.</desc>
-    <sub-title>The beast awakens</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909092405 +0000" stop="20220909094228 +0000">
-    <title>Life of Kai S2E2</title>
-    <desc>Jaws lights up and Kai looks to redeem himself after a tough loss in the Big Wave event there the year before.</desc>
-    <sub-title>Redemption at Peahi</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909094228 +0000" stop="20220909095929 +0000">
-    <title>Life of Kai S2E3</title>
-    <desc>Kai, Ridge and Ian Walsh fly to Mavericks in California for what's being hailed as the swell of the decade.</desc>
-    <sub-title>Day of Days</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909095929 +0000" stop="20220909102259 +0000">
-    <title>Life of Kai S2E4</title>
-    <desc>To hone his aerial skills, Kai hits the waves of Bali, the slopes of Jackson Hole and a wave pool in Texas.</desc>
-    <sub-title>Air time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220909102259 +0000" stop="20220909104550 +0000">
     <title>Life of Kai S2E5</title>
     <desc>It’s Super Swell Saturday at Jaws and tests stand in the way of Kai’s goal of his year’s best performance.</desc>
@@ -40469,6 +40439,21 @@
     <title>Red Bull Signature Series S2020E5</title>
     <desc>Held at Ryan Sheckler’s private skate park, Red Bull Solus featured 13 of the world's leading skateboarders.</desc>
     <sub-title>Red Bull Solus</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220910093428 +0000" stop="20220910102048 +0000">
+    <title>Gamble</title>
+    <desc>Raw speed, a heavy-hitting soundtrack and virgin locations – Gamble is tailored for madness.</desc>
+    <sub-title>A mountain bike film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220910102048 +0000" stop="20220910110812 +0000">
+    <title>Driven</title>
+    <desc>A film about the motivation, inspiration and drive that fuels a three-year snowboard project.</desc>
+    <sub-title>What drives you to snowboard?</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220910110812 +0000" stop="20220910113359 +0000">
+    <title>Red Bull Flugtag S2E6</title>
+    <desc>Some of the world’s most creative aircraft invade Victoria Harbour in Hong Kong for Red Bull Flugtag.</desc>
+    <sub-title>Hong Kong</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
