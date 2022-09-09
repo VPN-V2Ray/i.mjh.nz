@@ -1,4 +1,6 @@
-.*
-!.gitignore
-!.github/
+*
+!*.xml
+!*.xml.gz
+!.github/FUNDING.yml
+!*/
 ~~DONATE~~
