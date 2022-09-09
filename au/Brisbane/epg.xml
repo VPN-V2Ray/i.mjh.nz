@@ -432,14 +432,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Close Of Business</title>
+    <title>Friday Briefing</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20220909193000 +0000" stop="20220909200000 +0000">
-    <title>Friday Briefing</title>
-    <subtitles type="teletext"/>
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18866,14 +18866,14 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305040542" start="20220911080000 +0000" stop="20220911090000 +0000">
-    <title>Gold Coast Medical</title>
-    <subtitles type="teletext"/>
+    <title>Air Crash Investigation: Special Report</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20220911080000 +0000" stop="20220911090000 +0000">
-    <title>Air Crash Investigation: Special Report</title>
+    <title>Gold Coast Medical</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -40974,6 +40974,21 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220908221138 +0000" stop="20220908222324 +0000">
+    <title>Esports Unfold S4E2</title>
+    <desc>Possessing a ruthless will to win, get to know Carlos ‘ocelote’ Rodríguez, founder and CEO of G2 Esports.</desc>
+    <sub-title>Carlos ‘ocelote’ Rodríguez</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908222324 +0000" stop="20220908225118 +0000">
+    <title>Skate Tales S2E1</title>
+    <desc>Madars Apse is in Massachusetts to meet the group of friends redefining what's possible in skateboarding.</desc>
+    <sub-title>Madars and the Fancy Lad crew</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220908225118 +0000" stop="20220908231345 +0000">
+    <title>Skate Tales S2E2</title>
+    <desc>Madars Apse travels to Madrid to meet professional freestyle skateboarder and fashion model Kilian Martin.</desc>
+    <sub-title>Madars and Kilian Martin</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220908231345 +0000" stop="20220909004647 +0000">
     <title>Long Live Chainsaw</title>
     <desc>Celebrating the life and legacy of Canadian mountain bike legend Stevie Smith. </desc>
@@ -41183,11 +41198,6 @@
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
     <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220909234752 +0000" stop="20220910003151 +0000">
-    <title>Red Bull Signature Series S2020E4</title>
-    <desc>Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
-    <sub-title>Red Bull Rampage</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
